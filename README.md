@@ -3,14 +3,14 @@
 # 🛡️ Android Native-Level A/B Shell & Hook Engine
 ### 高阶 Android 原生级马甲包/A-B包开发 & Google Play 强风控对抗引擎
 
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square&logo=android)](https://developer.android.com)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java%20%7C%20Kotlin-blue.svg?style=flat-square)](https://developer.android.com)
-[![License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](LICENSE)
-[![Google Play Shield](https://img.shields.io/badge/Security-Anti--Sandbox%20%26%20Bypass-red.svg?style=flat-square)]()
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square&logo=android)]
+[![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java%20%7C%20Kotlin-blue.svg?style=flat-square)]
+[![License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)]
+[![Google Play Shield](https://img.shields.io/badge/Security-Anti--Sandbox%20%26%20Bypass-red.svg?style=flat-square)]
 
 **专为海外出海应用（iGaming / FinTech / Real Money Games / Social）打造的底层风控规避与强过审马甲包解决方案。**
 
-[技术特性](#-核心技术特性) • [防关联架构](#-底层的对抗策略) • [适用场景](#-商业适用场景) • [联系与合作](#-联系与合作)
+[技术特性] • [防关联架构] • [适用场景] • [联系与合作]
 
 </div>
 
