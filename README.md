@@ -78,9 +78,7 @@
 
 ---
 
-## 🔍 SEO 关键词 (Keywords Indexing)
-
-> *为了方便开发者和商务合作检索，本项目涵盖以下技术与业务领域：*
+> *本项目涵盖以下技术与业务领域：*
 
 `Android Native Hook` | `Inline Hook Engine` | `Google Play Bypass` | `A/B Shell Development` | `APK Cloaking` | `Android Obfuscation` | `OLLVM` | `Anti-Sandbox` | `Device Fingerprint Spoofing` | `GP过审` | `马甲包开发` | `安卓反编译与逆向对抗` | `出海买量过审` | `iGaming App Packaging` | `APK Anti-Association`
 
